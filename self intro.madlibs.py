@@ -35,5 +35,4 @@ while count< math.log(upper-lower+1,2):
         print("too high")
  
 count>=math.log(upper -lower+1,2)
-print("Sorry you are out of chances ")
-print(" The value was",x)
+print("Sorry you are out of chances . The value was",x)
